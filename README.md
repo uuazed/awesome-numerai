@@ -45,6 +45,7 @@ A curated list of awesome numerai libraries, tutorials and other resources.
   * [Let’s talk about Signals](https://parmarsuraj99.medium.com/lets-talk-about-signals-841934f24450)
   * [Getting Started with Numerai Signals](https://www.kaggle.com/carlolepelaars/getting-started-with-numerai-signals)
   * [From r/WSB to Numerai Signals](https://parmarsuraj99.medium.com/from-r-wsb-to-signals-684194364022)
+  * [Numerai Toronto meetup - Feb 2022](https://github.com/parmarsuraj99/numerai-guides/tree/master/signals_toronto)
 
 ## Websites
 * [Numerai Payouts app](http://numeraipayouts.com/) - Numerai Payouts App by Ceunen to see daily performance changes and rewards on phone.
