@@ -51,8 +51,7 @@ A curated list of awesome numerai libraries, tutorials and other resources.
 * [Numerai Payouts app](http://numeraipayouts.com/) - Numerai Payouts App by Ceunen to see daily performance changes and rewards on phone.
 * [Numerai Payouts Dashboard](https://dashboard.numeraipayouts.com/) - Lets you compare different models' performances with graphs by Ceunen.
 * [Numerati Dashboard](https://www.jofaichow.co.uk/numerati/data.html) - Models' scores and percentile ranks in a tabular format by ia_ai.
-
-
+* [Meetups](https://github.com/councilofelders/meetups) - Materials from CoE Meetups
 
 # Contributing
 
